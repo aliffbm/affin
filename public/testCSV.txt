@@ -1,0 +1,4 @@
+firstName,lastName,age
+Aliff,Macapinlac,67
+Jose,Magana,80
+Shakira,Hidonki,43
